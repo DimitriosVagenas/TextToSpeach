@@ -1,0 +1,30 @@
+This application is making text to speech.
+
+First step is to set the Text Area editable if you need to type;
+Second step is to type or load some text to the main editable text area. 
+Then you choose some of the options and you click speak to hear the text.
+You can clear the text Area by clicking Clear anytime "Kevin16"(narrators name) 
+is not narrating the text.
+
+Loading text documents  is achieved by opening the file menu by clicking on it 
+or by typing "Alt+F" the you have to choose the open choice. 
+
+A new window will then pop on your screen. You can either browse to open a specific 
+file from the discs by clicking the files button or you can give the directory of a txt file 
+without typing the .txt ending. 
+(you can open the helping text  by giving the path < SavedFiles/help > )
+
+You can create a new empty document file by opening the file menu and choosing new.
+Type the name of the new file in the new window and click create.
+The .txt document created will be in the saved in SavedFiles folder.
+
+You can save your Document by typing its name in the new window that will pop 
+if you select the save option and by clicking SavedFiles folder 
+
+You can edit the voice options by the Edit menu.
+
+You can see this message anytime by choosing the Help menu -> Help me option
+
+Finally you can see the Credits by choosing the Info menu -> Credits option.
+
+Have fun!

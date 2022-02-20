@@ -1,0 +1,11 @@
+Vagenas Dimitrios I.D. 2941
+Stalikas Dimitrios I.D. 3079
+
+ 
+This application is a project of professor Apostolos Zarras that we implemented for the 
+CSE course of Software Engineering. 
+
+We are glad that we made this happen since we learned a lot about  Software 
+Engineering and extended our programming skills. 
+
+Hope you enjoy it and find it useful.
