@@ -1,0 +1,3 @@
+This project was made by Dimitrios Vagenas for the class Software Engineering.
+It took me about 10 days to reach to this edition. It was a fun experience and I hope you can
+enjoy its features.

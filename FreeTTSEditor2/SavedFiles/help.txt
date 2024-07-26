@@ -1,0 +1,19 @@
+Welcome to Text2Speech Gus Edition 2020!
+
+In this application you can turn text to audio. 
+Use file tab to "open", "save" or create a "new" txt file.
+
+From the "Edit Toggle" option you can enable or disable the
+edit text option.
+
+When you load a text you can hear its contents by pressing the 
+"Speak" button or part of its contents by selecting the 
+"Selected" option.
+
+You can hear the text in normal mode or coded in atBash, Rot13 
+and reversed encoding.
+
+Finally you can edit the voice reading the text in the "Edit"
+tab and change the pitch, the volume and the words per minute.
+
+HAVE FUN!
